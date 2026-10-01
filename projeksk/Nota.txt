@@ -1,0 +1,6 @@
+Ini adalah Starter Kit untuk membina Portal e-Undi.
+
+PENTING : Extract kandungan Starter Kit ini ke dalam folder projek.
+
+Rujuk buku modul dan web sokongan modul untuk rujukan lanjut. 
+https://sk.jomgeek.com/sk2526
